@@ -32,7 +32,7 @@
 ------------------------------------
 ### Zero to One
 
-41,335 contributions in the last year
+5,335 contributions in the last year
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
