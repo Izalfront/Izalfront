@@ -13,9 +13,9 @@
 
 ### Best frameworks and main libraries:
 
-| Laravel | Tailwind | Vite | Svelte | 
-|----------|----------|----------|----------|
-|<img src="https://laravel.com/img/logomark.min.svg" title="Laravel" alt="Laravel" width="55" height="55"/>| <img width="55" src="tailwindcss.svg" alt="Tailwind CSS"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="55" height="55"/> |
+| Laravel | Tailwind | Svelte | 
+|----------|----------|----------|
+|<img src="https://laravel.com/img/logomark.min.svg" title="Laravel" alt="Laravel" width="55" height="55"/>| <img width="55" src="tailwindcss.svg" alt="Tailwind CSS"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="55" height="55"/> |
 
 
 
